@@ -1,0 +1,28 @@
+name: We test
+favicon: null
+layout_spectrum: 0.5380666174460202
+typography_spectrum: 0.03932858514599502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.125
+  lightness: 0.06652559386566281
+  saturation: 0.6875
+  rhythmicContrast: 0.3979446655139327
+purpose: []
