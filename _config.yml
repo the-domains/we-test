@@ -1,6 +1,6 @@
 name: We test
 favicon: null
-layout_spectrum: 0.99076
+layout_spectrum: 0.5380666174460202
 typography_spectrum: 0.03932858514599502
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.125
+  brandStrength: 0.6791016822680831
   lightness: 0.06652559386566281
-  saturation: 0.6875
+  saturation: 0.5825303106103092
   rhythmicContrast: 0.3979446655139327
 purpose: []
